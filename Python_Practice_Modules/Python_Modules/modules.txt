@@ -1,0 +1,48 @@
+Built in modules
+
+math
+random
+datetime
+os
+sys
+statistics
+keyword
+
+
+Diff between built in and user defined
+
+Module Search Path
+
+Search Order ->
+
+1. Current Project Folder
+
+2. Standard Library
+
+3. Installed Packages (site - packages) 
+
+4. Other locations listed in sys.Path
+
+5. If found -> Import the modules
+6. If not found -> ModuleNotFoundError
+
+
+
+Store in sys.modules
+
+importlib.reload()
+
+
+Types of modules
+
+1 Built in Module -> Already available in Python
+
+2 User Defined 
+
+3. Third party
+
+pip -> Python install Packages
+
+PyPI -> Python Package Index
+
+

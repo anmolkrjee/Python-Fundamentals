@@ -1,0 +1,11 @@
+StudentID,Name,Gender,City,Math,Science,English,Total,Average,Rank,Result
+2,Rohan Verma,F,Mumbai,78.0,97.0,60.0,235.0,78.33,5.0,Pass
+3,Meera Nair,F,Delhi,90.0,81.0,70.0,241.0,80.33,4.0,Pass
+5,Sneha Rao,M,Delhi,91.0,80.0,51.0,222.0,74.0,7.0,Pass
+17,Pooja Iyer,M,Chennai,97.0,60.0,64.0,221.0,73.67,8.0,Pass
+19,Tanvi Shah,M,Pune,60.0,86.0,73.0,219.0,73.0,9.0,Pass
+38,Sameer Ansari,F,Chennai,88.0,82.0,90.0,260.0,86.67,3.0,Pass
+46,Falak Hussain,M,Kolkata,48.0,83.0,87.0,218.0,72.67,10.0,Pass
+47,Gauri Nambiar,F,Mumbai,87.0,76.0,64.0,227.0,75.67,6.0,Pass
+48,Hitesh Goyal,F,Pune,91.0,98.0,90.0,279.0,93.0,2.0,Pass
+52,Lavanya Menon,F,Pune,93.0,98.0,96.0,287.0,95.67,1.0,Pass
